@@ -1,5 +1,5 @@
 # 💫 About Me:
-In the past three years, I have focused on learning and improving my skills and competencies in the IT field. I started with a basic course in Computer Assistance, then took a technical course in Systems Development, and today I am studying a Bachelor’s degree in Computer Science.
+In the last years, I have focused on learning and improving my skills and competencies in the IT field. I started with a basic course in Computer Assistance, then took a technical course in Systems Development, and today I am studying a Bachelor’s degree in Computer Science.
 
 
 ## 🌐 Socials:
