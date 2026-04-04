@@ -1,6 +1,6 @@
 # 💫 About Me:
-In the last years, I have focused on learning and improving my skills and competencies in the IT field. I started with a basic course in Computer Assistance, then took a technical course in Systems Development, and today I am studying a Bachelor’s degree in Computer Science.
-
+In the last years, I have focused on learning and improving my skills and competencies in the IT field. I started with a basic course in Computer Assistance, then took a technical course in Systems Development, and today I am studying a Bachelor’s degree in Computer Science. I worked as a IT assistent
+for 10 months.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100011379934473) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafael.luz2005/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-g-luz/) 
