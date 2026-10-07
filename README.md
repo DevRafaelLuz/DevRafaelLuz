@@ -13,13 +13,13 @@ Over the past few years, I have dedicated myself to building a solid foundation 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevRafaelLuz&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devrafaelluz)
+![](https://trophy.ryglcloud.net/?username=DevRafaelLuz&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400)
+
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=DevRafaelLuz&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevRafaelLuz&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 ![](https://komarev.com/ghpvc/?username=devrafaelluz&label=Profile%20views&color=0e75b6&style=flat)
